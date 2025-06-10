@@ -83,3 +83,6 @@ Power-Bi-Projects/
 1. Clone the repo  
 2. Open `SalesReport.pbix` using Power BI Desktop  
 3. Ensure dataset paths are updated if needed  
+
+## Author
+Jithin Joseph John
